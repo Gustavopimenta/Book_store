@@ -1,2 +1,2 @@
-# Book_store-
+# Book_store
 Sample database in SQL
